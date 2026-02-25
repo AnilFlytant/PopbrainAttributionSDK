@@ -1,10 +1,3 @@
-//
-//  Package.swift
-//  PopbrainAttributionSDK
-//
-//  Created by Aura on 25/02/26.
-//
-
 // swift-tools-version: 5.9
 import PackageDescription
 
