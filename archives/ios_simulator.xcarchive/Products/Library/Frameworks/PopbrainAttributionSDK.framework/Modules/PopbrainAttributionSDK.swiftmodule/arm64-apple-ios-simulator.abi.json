@@ -1,0 +1,132 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "PopbrainAttributionSDK",
+    "printedName": "PopbrainAttributionSDK",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PopbrainAttributionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MyTracker",
+        "printedName": "MyTracker",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MyTracker",
+                "printedName": "PopbrainAttributionSDK.MyTracker",
+                "usr": "s:22PopbrainAttributionSDK9MyTrackerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22PopbrainAttributionSDK9MyTrackerC6sharedACvpZ",
+            "mangledName": "$s22PopbrainAttributionSDK9MyTrackerC6sharedACvpZ",
+            "moduleName": "PopbrainAttributionSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MyTracker",
+                    "printedName": "PopbrainAttributionSDK.MyTracker",
+                    "usr": "s:22PopbrainAttributionSDK9MyTrackerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22PopbrainAttributionSDK9MyTrackerC6sharedACvgZ",
+                "mangledName": "$s22PopbrainAttributionSDK9MyTrackerC6sharedACvgZ",
+                "moduleName": "PopbrainAttributionSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(apiKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22PopbrainAttributionSDK9MyTrackerC10initialize6apiKeyySS_tF",
+            "mangledName": "$s22PopbrainAttributionSDK9MyTrackerC10initialize6apiKeyySS_tF",
+            "moduleName": "PopbrainAttributionSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:22PopbrainAttributionSDK9MyTrackerC",
+        "mangledName": "$s22PopbrainAttributionSDK9MyTrackerC",
+        "moduleName": "PopbrainAttributionSDK",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
