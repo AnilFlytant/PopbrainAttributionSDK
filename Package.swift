@@ -13,7 +13,7 @@ let package = Package(
         .binaryTarget(
             name: "PopbrainAttributionSDK",
             url: "https://github.com/AnilFlytant/PopbrainAttributionSDK/releases/download/v1.0.0/PopbrainAttributionSDK.zip",
-            checksum: "36cca9c121172ca5a07bc8f408bf3cdff6d994d2a6bd40ab6e294e98e9dc081e"
+            checksum: "e97a6efdbb3ce5b7fb622db1ac30b060c91c156a0ef777914556483771b8b5a7"
         )
     ]
 )

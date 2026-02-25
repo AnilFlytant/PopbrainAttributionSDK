@@ -15,6 +15,13 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PopbrainAttributionSDK"
+      },
+      {
         "kind": "TypeDecl",
         "name": "MyTracker",
         "printedName": "MyTracker",
@@ -95,6 +102,27 @@
               "Final",
               "AccessControl",
               "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "checkForAttribution",
+            "printedName": "checkForAttribution()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22PopbrainAttributionSDK9MyTrackerC08checkForB0yyF",
+            "mangledName": "$s22PopbrainAttributionSDK9MyTrackerC08checkForB0yyF",
+            "moduleName": "PopbrainAttributionSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }

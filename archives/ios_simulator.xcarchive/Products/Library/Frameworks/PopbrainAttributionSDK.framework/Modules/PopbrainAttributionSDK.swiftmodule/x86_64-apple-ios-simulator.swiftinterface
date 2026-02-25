@@ -4,11 +4,13 @@
 // swift-module-flags-ignorable:  -interface-compiler-version 6.1
 import Foundation
 import Swift
+import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers final public class MyTracker {
   public static let shared: PopbrainAttributionSDK.MyTracker
   final public func initialize(apiKey: Swift.String)
+  final public func checkForAttribution()
   @objc deinit
 }

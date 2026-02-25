@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5SCkTkJI1Hbux3TU8DgGGQzGUe4=
+		wXWrcQogdNhOd+a8d/r7Rb5S8GE=
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+rEGcMqrEi2/x9QphChCja6qUOU=
+		zHcMJyq3ziYMFSRYYaEKUP2pGyU=
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+rEGcMqrEi2/x9QphChCja6qUOU=
+		zHcMJyq3ziYMFSRYYaEKUP2pGyU=
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0FviYLvwHXBdnJnQIf8sjMBSFQM=
+		Sk6Vkavg0lZnJ2+hUaItVTx62Yk=
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5SCkTkJI1Hbux3TU8DgGGQzGUe4=
+		wXWrcQogdNhOd+a8d/r7Rb5S8GE=
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		twkngMHYHVy9jX458UjH9nGSIeQ=
+		bwai5OJ/O0ezRUaZahL2tUJE2fs=
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		twkngMHYHVy9jX458UjH9nGSIeQ=
+		bwai5OJ/O0ezRUaZahL2tUJE2fs=
 		</data>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b5O3tHLRV5XO/xEv9o86J6gSVPo=
+		r6WWQGrtUpJ4U1pkkGS3/m7qIOE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,22 +55,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5SCkTkJI1Hbux3TU8DgGGQzGUe4=
+			wXWrcQogdNhOd+a8d/r7Rb5S8GE=
 			</data>
 			<key>hash2</key>
 			<data>
-			pGOX7oezsaHjwmkNNmHk4BG4Q3rwjfwwVOR9GScDBMk=
+			Tj4ke2P6Mb2qL9TXUVC7jfo55Mzgg3i2vOboUQIA6jM=
 			</data>
 		</dict>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+rEGcMqrEi2/x9QphChCja6qUOU=
+			zHcMJyq3ziYMFSRYYaEKUP2pGyU=
 			</data>
 			<key>hash2</key>
 			<data>
-			B2oQUq7F5W6yZKbgvrr0bKDiwnENZeeQfVJVFehh7aU=
+			n/Y3dWddrKMXX6vuvhpEIwObrtnmwaXNmvkdYxo5zqk=
 			</data>
 		</dict>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -88,44 +88,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+rEGcMqrEi2/x9QphChCja6qUOU=
+			zHcMJyq3ziYMFSRYYaEKUP2pGyU=
 			</data>
 			<key>hash2</key>
 			<data>
-			B2oQUq7F5W6yZKbgvrr0bKDiwnENZeeQfVJVFehh7aU=
+			n/Y3dWddrKMXX6vuvhpEIwObrtnmwaXNmvkdYxo5zqk=
 			</data>
 		</dict>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0FviYLvwHXBdnJnQIf8sjMBSFQM=
+			Sk6Vkavg0lZnJ2+hUaItVTx62Yk=
 			</data>
 			<key>hash2</key>
 			<data>
-			oBTJ6w4guCjYiIWSXDA8NA9vCSf6DQSv8BSSn66WBic=
+			J8gV0/o7J5Od/5ik3imdPuJvOaCgoepVAmKaw/4KwKI=
 			</data>
 		</dict>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5SCkTkJI1Hbux3TU8DgGGQzGUe4=
+			wXWrcQogdNhOd+a8d/r7Rb5S8GE=
 			</data>
 			<key>hash2</key>
 			<data>
-			pGOX7oezsaHjwmkNNmHk4BG4Q3rwjfwwVOR9GScDBMk=
+			Tj4ke2P6Mb2qL9TXUVC7jfo55Mzgg3i2vOboUQIA6jM=
 			</data>
 		</dict>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			twkngMHYHVy9jX458UjH9nGSIeQ=
+			bwai5OJ/O0ezRUaZahL2tUJE2fs=
 			</data>
 			<key>hash2</key>
 			<data>
-			/7/+cnF1d7smGSiHZLUf4i3KwrulPDSQsg0zCceb1OM=
+			LjRXbkbGlnW3M55DsQecdJINz03cSFItzHu+lh4YkXU=
 			</data>
 		</dict>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -143,22 +143,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			twkngMHYHVy9jX458UjH9nGSIeQ=
+			bwai5OJ/O0ezRUaZahL2tUJE2fs=
 			</data>
 			<key>hash2</key>
 			<data>
-			/7/+cnF1d7smGSiHZLUf4i3KwrulPDSQsg0zCceb1OM=
+			LjRXbkbGlnW3M55DsQecdJINz03cSFItzHu+lh4YkXU=
 			</data>
 		</dict>
 		<key>Modules/PopbrainAttributionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b5O3tHLRV5XO/xEv9o86J6gSVPo=
+			r6WWQGrtUpJ4U1pkkGS3/m7qIOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			MAX9UY5EbLw+JgIGNeDFS1QNkwqXJCbAHWKmGBOxkFg=
+			GJg7Zi/sEKDV/jQldL1OfYM0Zd9ZZsa5+syWUzKkTLw=
 			</data>
 		</dict>
 	</dict>
